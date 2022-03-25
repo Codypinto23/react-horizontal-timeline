@@ -1,6 +1,6 @@
 {
   "name": "react-horizontal-timeline-no-uglify",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A horizontal timeline component made using react",
   "main": "./dist/react-horizontal-timeline.js",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jckdrpr/react-horizontal-timeline"
+    "url": "https://github.com/Codypinto23/react-horizontal-timeline"
   },
   "keywords": [
     "react",
