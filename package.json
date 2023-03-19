@@ -1,6 +1,6 @@
 {
-  "name": "@thekhalidsha/react-horizontal-timeline-no-uglify",
-  "version": "2.1.2",
+  "name": "react-horizontal-timeline-no-uglify-version",
+  "version": "2.1.5",
   "description": "A horizontal timeline component made using react",
   "main": "./dist/react-horizontal-timeline.js",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thekhalidsha/react-horizontal-timeline.git"
+    "url": "git+https://github.com/Codypinto23/react-horizontal-timeline.git"
   },
   "keywords": [
     "react",
@@ -31,7 +31,7 @@
   "dependencies": {
     "@babel/plugin-transform-runtime": "^7.1.0",
     "color": "^3.0.0",
-    "prop-types": "^15.8.1",
+    "prop-types": "^15.6.0",
     "radium": "^0.25.0",
     "react-dimensions": "2.0.0-alpha2",
     "react-icons": "^3.1.0",
@@ -52,7 +52,7 @@
     "bootstrap": "^4.1.0",
     "cross-env": "^5.0.1",
     "css-loader": "^1.0.0",
-    "eslint": "8.6.0",
+    "eslint": "^5.6.1",
     "eslint-plugin-react": "^7.1.0",
     "extract-text-webpack-plugin": "^3.0.2",
     "file-loader": "^2.0.0",
