@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Codypinto23/react-horizontal-timeline"
+    "url": "https://github.com/thekhalidsha/react-horizontal-timeline"
   },
   "keywords": [
     "react",
@@ -67,9 +67,5 @@
     "webpack": "^5.70.0",
     "webpack-cli": "^4.9.2",
     "webpack-dev-server": "^3.1.3"
-  },
-  "peerDependencies": {
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2"
   }
 }
