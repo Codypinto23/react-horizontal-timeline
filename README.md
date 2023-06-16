@@ -4,7 +4,7 @@ A react port of the horizontal time-line developed by CodyHouse.
 Here is a [demo](http://sherubthakur.github.io/react-horizontal-timeline) I hope you too are a fan of the elder scrolls.
 
 ## NOTE
-I think this is a great package and want to give it some more life. I removed uglify and updated webpack to v5 so that it wouldn't fail Github security checks anymore- cwpinto23.
+I think this is a great package and want to give it some more life- cwpinto23.
 
 ## HorizontalTimeline
 
